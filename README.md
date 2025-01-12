@@ -7,23 +7,21 @@ I'm MD Ripon Islam, Fullstack developer from Nilphamari, Bangladesh.
 
 ### Places I have contributed and working now
 - Full Stack Developer at [Arnifi](http://www.arnifi.com) (current)
-- Frontend Developer at [C-Sunshine](http://www.mabias.one)
+- Frontend Developer at [C-Sunshine](https://www.c-sunshine.com)
 - Backend Developer (Intern) at [Mabias](http://www.mabias.one) 
 - Full stack developer at A2series
 
 ### 🖥 Technologies
 
 You can talk to me about,
-- Front-end development using **HTML, CSS, JavaScript, Typescript, ReactJS, Mantine UI, Bootstrap and Tailwind**
-- Backend development using **NodeJS and Express**
+- Front-end development using **HTML, CSS, JavaScript, Typescript, React, Angular, Vue, Next JS, Mantine UI, Material UI, Bootstrap and Tailwind**
+- Backend development using **NodeJS, Express JS, Nest JS**
 - Database  using **MongoDB and Neo4j**
-- Full stack stuff using **NextJ and SvelteKit**
 - Web scraping & automation using **Puppeteer and Cheerio**
-- CMS stuff using **Wordpress, Strapi and PayloadCMS**
+- CMS stuff using **Wordpress, Strapi**
 - Deployment stuff using **Docker, Github Actions and Nginx**
 
 You can still talk to me about things I am still learning,
-- Frontend stuff like **Vue**
-- Framework stuff like **Flutter**
-- Languages like **Dart, PHP**
-- Data structures and algorithms
+- Framework stuff like **Gin**
+- Languages like **Go, Rust**
+- Databases like **PostgreSQL**
