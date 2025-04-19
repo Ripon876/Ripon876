@@ -19,7 +19,7 @@ You can talk to me about,
 - Database  using **MongoDB and Neo4j**
 - Web scraping & automation using **Puppeteer and Cheerio**
 - CMS stuff using **Wordpress, Strapi**
-- Deployment stuff using **Docker, Github Actions and Nginx**
+- Deployment stuff using **Docker, Github Actions, Caddy and Nginx**
 
 You can still talk to me about things I am still learning,
 - Framework stuff like **Gin, Fiber**
