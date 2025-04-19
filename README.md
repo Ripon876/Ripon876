@@ -22,6 +22,6 @@ You can talk to me about,
 - Deployment stuff using **Docker, Github Actions and Nginx**
 
 You can still talk to me about things I am still learning,
-- Framework stuff like **Gin**
+- Framework stuff like **Gin, Fiber**
 - Languages like **Go, Rust**
 - Databases like **PostgreSQL**
